@@ -1,0 +1,43 @@
+var MyResume = {
+    "Basics" :{
+        "Name":"DHAMEEMUL ANSARI I",
+        "Email id":"dhameem26@gmail.com",
+        "phone": 8220968436,
+        "Degree":"BCA",
+    },
+     
+    "Location": {
+        "Address":"2/59,main road,avoor.thiruvarur dist",
+        "Pincode":612701,
+        "City" :"thiruvarur",
+        "State" :"Tamilnadu",
+        "Country":"India",
+    },
+
+    "Educataion":{
+        "College Name":"nehru arts and science college",
+        "Department":"computer application",
+        "Register no":"19UGCA036",
+        "year":"2019-2022",
+    },
+
+    "Languages known":{
+        "Language":"Tamil,English,malayalam",
+    },
+
+    "skills":{
+        "Name":"Full stack Developer",
+        "Level":"Beginner",
+    },
+
+    "Interest":{
+        "Name":"coding",
+    },
+
+    "Hobbies":{
+        "Name":"video games,movies,listening songs",
+    }
+
+} 
+
+	console.log(MyResume)
